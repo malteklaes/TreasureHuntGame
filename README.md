@@ -6,7 +6,7 @@
 
 - **server**: In contrast, there is a server that automatically creates games (gameID), registers players, exchanges game-map halves and initializes a game. (The server here still lacks the additional ability to receive movements and update the map with these movements).
 - project: **Java Spring Boot** as **java-gradle**
-  - The game idea and the design of the game description comes from an original university project (software engineering winter semester 2021)
+  - The game idea and the design of the game description comes from an original university project (software engineering summer semester 2023)
   - author: Ing. Dipl.-Ing. Dr.techn. Kristof Böhmer
   - website: https://swe1.wst.univie.ac.at/
 
