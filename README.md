@@ -2,7 +2,7 @@
 
 ## Goal of the project:
 - **client/player/AI**: On the one hand, the project is intended to demonstrate the implementation of a player (client) AI, whereby this AI automatically interacts with a server: registers, creates and sends a game-map, waits for an opponent and then automatically plays the treasure hunt game with an implemented strategy (*PathfinderAlgorithm module* with *breadth-first search algorithm*).
-<img src="./playerAIplays.png" alt="BILD" style="width:200%; border:0; float:left, margin:5px" >
+<img src="./playerAI.PNG" alt="BILD" style="width:200%; border:0; float:left, margin:5px" >
 
 - **server**: In contrast, there is a server that automatically creates games (gameID), registers players, exchanges game-map halves and initializes a game. (The server here still lacks the additional ability to receive movements and update the map with these movements).
 - project: **Java Spring Boot** as **java-gradle**
